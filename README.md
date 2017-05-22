@@ -1,7 +1,7 @@
 # GerarIntancias
 Gerador Aleatório de Grafos 
 
-Gerador de instâncias para o problema de Árvore Geradora Mínima com restrição de Grau Mínimo com Centrais e Terminais Fixos.
+Gerador de instâncias para o problema de Árvore Geradora Mínima com restrição de Grau Mínimo com Centrais e Terminais Fixos implementado em C++.
 
 De modo que as instâncias são grafos completos com n vértices. Os vértices correspondem a pontos gerados aleatoriamente no plano euclidiano dentro de um retângulo de dimensões 480x640 e o custo de cada aresta (u,v) é dado pela distância euclidiana entre os pontos u e v. Além disso, pode se alterar os parâmetros de entrada, tais como o número de vértices, o número de centrais e o grau para cada vértice central.
 
